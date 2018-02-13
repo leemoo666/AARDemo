@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="telDialogAnim">
+        <item name="android:windowEnterAnimation">@anim/action_push_in_down</item>
+        <item name="android:windowExitAnimation">@anim/action_push_out_down</item>
+    </style>
+</resources>
